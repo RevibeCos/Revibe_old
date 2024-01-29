@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Header() {
     return (
         <header>
-            <nav>
+            <nav className="">
                 <Link
                     to=""
                     className="mr-4 text-lg font-medium"
